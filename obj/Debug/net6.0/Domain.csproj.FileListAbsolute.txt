@@ -1,0 +1,64 @@
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\bin\Debug\net6.0\appsettings.json
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\bin\Debug\net6.0\Domain.exe
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\bin\Debug\net6.0\Domain.dll
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\bin\Debug\net6.0\Domain.pdb
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\Domain.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\Domain.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\staticwebassets\msbuild.Domain.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\staticwebassets\msbuild.build.Domain.props
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Domain.props
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Domain.props
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\scopedcss\bundle\Domain.styles.css
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\Domain.csproj.Up2Date
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\Domain.dll
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\Domain.pdb
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+D:\OneDrive\Bureau\MDSI-1\S3\tp developpement de service iot\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\bin\Debug\net6.0\appsettings.json
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\bin\Debug\net6.0\Domain.exe
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\Domain.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\Domain.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\staticwebassets\msbuild.Domain.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\staticwebassets\msbuild.build.Domain.props
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Domain.props
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Domain.props
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\scopedcss\bundle\Domain.styles.css
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\Ilef Bounawara\Desktop\M2-IoT\TP-dev-web-serv-IoT(hamouda)\Laveries\Domain\Domain\obj\Debug\net6.0\ref\Domain.dll

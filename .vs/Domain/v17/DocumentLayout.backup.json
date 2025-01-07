@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5600032A-2EEC-4084-A35A-E38C9CA77D1A}|Domain.csproj|d:\\onedrive\\bureau\\mdsi-1\\s3\\tp developpement de service iot\\domain\\entities\\tarif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5600032A-2EEC-4084-A35A-E38C9CA77D1A}|Domain.csproj|solutionrelative:entities\\tarif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5600032A-2EEC-4084-A35A-E38C9CA77D1A}|Domain.csproj|d:\\onedrive\\bureau\\mdsi-1\\s3\\tp developpement de service iot\\domain\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5600032A-2EEC-4084-A35A-E38C9CA77D1A}|Domain.csproj|solutionrelative:entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5600032A-2EEC-4084-A35A-E38C9CA77D1A}|Domain.csproj|d:\\onedrive\\bureau\\mdsi-1\\s3\\tp developpement de service iot\\domain\\entities\\laverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5600032A-2EEC-4084-A35A-E38C9CA77D1A}|Domain.csproj|solutionrelative:entities\\laverie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5600032A-2EEC-4084-A35A-E38C9CA77D1A}|Domain.csproj|d:\\onedrive\\bureau\\mdsi-1\\s3\\tp developpement de service iot\\domain\\entities\\proprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5600032A-2EEC-4084-A35A-E38C9CA77D1A}|Domain.csproj|solutionrelative:entities\\proprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5600032A-2EEC-4084-A35A-E38C9CA77D1A}|Domain.csproj|d:\\onedrive\\bureau\\mdsi-1\\s3\\tp developpement de service iot\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5600032A-2EEC-4084-A35A-E38C9CA77D1A}|Domain.csproj|solutionrelative:domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5600032A-2EEC-4084-A35A-E38C9CA77D1A}|Domain.csproj|d:\\onedrive\\bureau\\mdsi-1\\s3\\tp developpement de service iot\\domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5600032A-2EEC-4084-A35A-E38C9CA77D1A}|Domain.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:15:17.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain.csproj",
+              "ToolTip": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T20:12:02.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarif.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\Entities\\Tarif.cs",
+              "RelativeDocumentMoniker": "Entities\\Tarif.cs",
+              "ToolTip": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\Entities\\Tarif.cs",
+              "RelativeToolTip": "Entities\\Tarif.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:12:07.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proprietaire.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\Entities\\Proprietaire.cs",
+              "RelativeDocumentMoniker": "Entities\\Proprietaire.cs",
+              "ToolTip": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\Entities\\Proprietaire.cs*",
+              "RelativeToolTip": "Entities\\Proprietaire.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:12:07.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\Entities\\Machine.cs",
+              "RelativeDocumentMoniker": "Entities\\Machine.cs",
+              "ToolTip": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\Entities\\Machine.cs*",
+              "RelativeToolTip": "Entities\\Machine.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:12:07.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Laverie.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\Entities\\Laverie.cs",
+              "RelativeDocumentMoniker": "Entities\\Laverie.cs",
+              "ToolTip": "D:\\OneDrive\\Bureau\\MDSI-1\\S3\\tp developpement de service iot\\Domain\\Entities\\Laverie.cs*",
+              "RelativeToolTip": "Entities\\Laverie.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:12:06.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
