@@ -5,14 +5,23 @@ namespace Domain.Entities
 {
     public class Proprietaire
     {
-        [JsonPropertyName("id")]
+        
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [JsonIgnore]
-        public int Id { get; set; }
-        public string Nom { get; set; }
-        public string Prenom { get; set; }
-        public string Email { get; set; }
-        public int LaverieId { get; set; }
+            [JsonPropertyName("Id")]
+            public int Id { get; set; }
 
+            [JsonPropertyName("Nom")]
+            public string Nom { get; set; }
+
+            [JsonPropertyName("Prenom")]
+            public string Prenom { get; set; }
+
+            [JsonPropertyName("Email")]
+            public string Email { get; set; }
+
+            [JsonPropertyName("LaverieId")]
+            public int LaverieId { get; set; }
+        }
     }
-}
+
